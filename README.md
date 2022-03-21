@@ -1,2 +1,2 @@
-# RocketAcademyCourseMaterial
+# RocketAcademyBasic
 Created with CodeSandbox
